@@ -7,19 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D0B103B2CA6185E00A4D740 /* 7_check_if_subsequence_exist.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D0B103A2CA6185E00A4D740 /* 7_check_if_subsequence_exist.cpp */; };
 		8D1211852C8B49E30041EF37 /* sort_array_using_recursion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D1211842C8B49E30041EF37 /* sort_array_using_recursion.cpp */; };
-		8D258BAF2C958D270072299D /* count_number_of_subsequence_with_given_sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D258BAE2C958D270072299D /* count_number_of_subsequence_with_given_sum.cpp */; };
-		8D3A2A1E2C96A75500DB3229 /* Combination_Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3A2A1D2C96A75500DB3229 /* Combination_Sum.cpp */; };
+		8D17E5932CABD8EB0068AABA /* 16_n_queen.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17E5922CABD8EB0068AABA /* 16_n_queen.cpp */; };
+		8D1E0C932CB2726500C2C36E /* 15_word_search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D1E0C922CB2726500C2C36E /* 15_word_search.cpp */; };
+		8D258BAF2C958D270072299D /* 6_count_number_of_subsequence_with_given_sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D258BAE2C958D270072299D /* 6_count_number_of_subsequence_with_given_sum.cpp */; };
+		8D288D222CA803240018FEAC /* 11_subset_sum_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D288D212CA803240018FEAC /* 11_subset_sum_2.cpp */; };
+		8D288D242CA8161E0018FEAC /* 12_combination_sum_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D288D232CA8161E0018FEAC /* 12_combination_sum_3.cpp */; };
+		8D288D262CA841E00018FEAC /* 13_letter_combination_of_a_phone_number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D288D252CA841E00018FEAC /* 13_letter_combination_of_a_phone_number.cpp */; };
+		8D3A2A1E2C96A75500DB3229 /* 8_Combination_Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3A2A1D2C96A75500DB3229 /* 8_Combination_Sum.cpp */; };
 		8D3B3B3F2C91B6DC00E65B78 /* jump_game_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3B3B3E2C91B6DC00E65B78 /* jump_game_2.cpp */; };
-		8D4662762C97E14200AF46A6 /* combination_sum_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D4662752C97E14200AF46A6 /* combination_sum_2.cpp */; };
-		8D6852F62C8DB555009AAC59 /* generate_all_binary_strings_without_consecutive_ones.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6852F52C8DB555009AAC59 /* generate_all_binary_strings_without_consecutive_ones.cpp */; };
-		8D6852F82C8DB8FD009AAC59 /* generate_parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6852F72C8DB8FD009AAC59 /* generate_parentheses.cpp */; };
-		8D6852FA2C8DDFE9009AAC59 /* powerset_recursion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6852F92C8DDFE9009AAC59 /* powerset_recursion.cpp */; };
+		8D4662762C97E14200AF46A6 /* 9_combination_sum_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D4662752C97E14200AF46A6 /* 9_combination_sum_2.cpp */; };
+		8D52DB362CB5AEFC00EC9BD5 /* 21_wrong_question_leetcode_expression_add_operator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D52DB352CB5AEFC00EC9BD5 /* 21_wrong_question_leetcode_expression_add_operator.cpp */; };
+		8D6852F62C8DB555009AAC59 /* 1_generate_all_binary_strings_without_consecutive_ones.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6852F52C8DB555009AAC59 /* 1_generate_all_binary_strings_without_consecutive_ones.cpp */; };
+		8D6852F82C8DB8FD009AAC59 /* 2_generate_parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6852F72C8DB8FD009AAC59 /* 2_generate_parentheses.cpp */; };
+		8D6852FA2C8DDFE9009AAC59 /* 3_powerset_recursion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6852F92C8DDFE9009AAC59 /* 3_powerset_recursion.cpp */; };
+		8D716D322CB8F8B8000C572D /* 22_kth_permutation(permutation_sequence).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D716D312CB8F8B8000C572D /* 22_kth_permutation(permutation_sequence).cpp */; };
 		8D77C9152C90754400B3DD7B /* jump_game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D77C9142C90754400B3DD7B /* jump_game.cpp */; };
+		8D84CC1D2CB8112C00178FDF /* 19_m_coloring_problem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D84CC1C2CB8112C00178FDF /* 19_m_coloring_problem.cpp */; };
+		8DA4C5852CB37CD500088F04 /* 18_word_break.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA4C5842CB37CD500088F04 /* 18_word_break.cpp */; };
+		8DB08B562CB10A0000D05293 /* 14_palindrome_patitioning.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DB08B552CB10A0000D05293 /* 14_palindrome_patitioning.cpp */; };
+		8DCD6EEC2CA721F700FE2FE0 /* 10_subset_sum_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD6EEB2CA721F700FE2FE0 /* 10_subset_sum_1.cpp */; };
 		8DD5EABF2C8C2FCE009AD9A7 /* sort_a_stack_using_recursion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD5EABE2C8C2FCE009AD9A7 /* sort_a_stack_using_recursion.cpp */; };
 		8DDC11E62C8F482A009D7634 /* reverse_stack_using_recursion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC11E52C8F482A009D7634 /* reverse_stack_using_recursion.cpp */; };
-		8DE5BC512C92C415005EAA4D /* unique_powerset.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DE5BC502C92C415005EAA4D /* unique_powerset.cpp */; };
-		8DFD567E2C944A34001E54E6 /* count_number_of_unique_subsequences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFD567D2C944A34001E54E6 /* count_number_of_unique_subsequences.cpp */; };
+		8DE5BC512C92C415005EAA4D /* 4_unique_powerset.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DE5BC502C92C415005EAA4D /* 4_unique_powerset.cpp */; };
+		8DE72DDD2CB309BC009D5EDB /* 17_rat_in_a_maze.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DE72DDC2CB309BC009D5EDB /* 17_rat_in_a_maze.cpp */; };
+		8DF643B02CB54E1600C67DB1 /* 20_sudoku_solver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF643AF2CB54E1600C67DB1 /* 20_sudoku_solver.cpp */; };
+		8DFD567E2C944A34001E54E6 /* 5_count_number_of_unique_subsequences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFD567D2C944A34001E54E6 /* 5_count_number_of_unique_subsequences.cpp */; };
+		8DFDEA082CA975D000EFD026 /* permutations_LC46_not_in_sheet_but_in_playlist.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFDEA072CA975D000EFD026 /* permutations_LC46_not_in_sheet_but_in_playlist.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,21 +50,36 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D0B103A2CA6185E00A4D740 /* 7_check_if_subsequence_exist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 7_check_if_subsequence_exist.cpp; sourceTree = "<group>"; };
 		8D1211812C8B49E30041EF37 /* combinedDsa */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = combinedDsa; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D1211842C8B49E30041EF37 /* sort_array_using_recursion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sort_array_using_recursion.cpp; sourceTree = "<group>"; };
 		8D12118C2C8B4A470041EF37 /* stdc++.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "stdc++.h"; sourceTree = "<group>"; };
-		8D258BAE2C958D270072299D /* count_number_of_subsequence_with_given_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = count_number_of_subsequence_with_given_sum.cpp; sourceTree = "<group>"; };
-		8D3A2A1D2C96A75500DB3229 /* Combination_Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Combination_Sum.cpp; sourceTree = "<group>"; };
+		8D17E5922CABD8EB0068AABA /* 16_n_queen.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16_n_queen.cpp; sourceTree = "<group>"; };
+		8D1E0C922CB2726500C2C36E /* 15_word_search.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15_word_search.cpp; sourceTree = "<group>"; };
+		8D258BAE2C958D270072299D /* 6_count_number_of_subsequence_with_given_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6_count_number_of_subsequence_with_given_sum.cpp; sourceTree = "<group>"; };
+		8D288D212CA803240018FEAC /* 11_subset_sum_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11_subset_sum_2.cpp; sourceTree = "<group>"; };
+		8D288D232CA8161E0018FEAC /* 12_combination_sum_3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 12_combination_sum_3.cpp; sourceTree = "<group>"; };
+		8D288D252CA841E00018FEAC /* 13_letter_combination_of_a_phone_number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 13_letter_combination_of_a_phone_number.cpp; sourceTree = "<group>"; };
+		8D3A2A1D2C96A75500DB3229 /* 8_Combination_Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 8_Combination_Sum.cpp; sourceTree = "<group>"; };
 		8D3B3B3E2C91B6DC00E65B78 /* jump_game_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = jump_game_2.cpp; sourceTree = "<group>"; };
-		8D4662752C97E14200AF46A6 /* combination_sum_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = combination_sum_2.cpp; sourceTree = "<group>"; };
-		8D6852F52C8DB555009AAC59 /* generate_all_binary_strings_without_consecutive_ones.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = generate_all_binary_strings_without_consecutive_ones.cpp; sourceTree = "<group>"; };
-		8D6852F72C8DB8FD009AAC59 /* generate_parentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = generate_parentheses.cpp; sourceTree = "<group>"; };
-		8D6852F92C8DDFE9009AAC59 /* powerset_recursion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = powerset_recursion.cpp; sourceTree = "<group>"; };
+		8D4662752C97E14200AF46A6 /* 9_combination_sum_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9_combination_sum_2.cpp; sourceTree = "<group>"; };
+		8D52DB352CB5AEFC00EC9BD5 /* 21_wrong_question_leetcode_expression_add_operator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 21_wrong_question_leetcode_expression_add_operator.cpp; sourceTree = "<group>"; };
+		8D6852F52C8DB555009AAC59 /* 1_generate_all_binary_strings_without_consecutive_ones.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1_generate_all_binary_strings_without_consecutive_ones.cpp; sourceTree = "<group>"; };
+		8D6852F72C8DB8FD009AAC59 /* 2_generate_parentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2_generate_parentheses.cpp; sourceTree = "<group>"; };
+		8D6852F92C8DDFE9009AAC59 /* 3_powerset_recursion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3_powerset_recursion.cpp; sourceTree = "<group>"; };
+		8D716D312CB8F8B8000C572D /* 22_kth_permutation(permutation_sequence).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "22_kth_permutation(permutation_sequence).cpp"; sourceTree = "<group>"; };
 		8D77C9142C90754400B3DD7B /* jump_game.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = jump_game.cpp; sourceTree = "<group>"; };
+		8D84CC1C2CB8112C00178FDF /* 19_m_coloring_problem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 19_m_coloring_problem.cpp; sourceTree = "<group>"; };
+		8DA4C5842CB37CD500088F04 /* 18_word_break.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 18_word_break.cpp; sourceTree = "<group>"; };
+		8DB08B552CB10A0000D05293 /* 14_palindrome_patitioning.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14_palindrome_patitioning.cpp; sourceTree = "<group>"; };
+		8DCD6EEB2CA721F700FE2FE0 /* 10_subset_sum_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10_subset_sum_1.cpp; sourceTree = "<group>"; };
 		8DD5EABE2C8C2FCE009AD9A7 /* sort_a_stack_using_recursion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sort_a_stack_using_recursion.cpp; sourceTree = "<group>"; };
 		8DDC11E52C8F482A009D7634 /* reverse_stack_using_recursion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = reverse_stack_using_recursion.cpp; sourceTree = "<group>"; };
-		8DE5BC502C92C415005EAA4D /* unique_powerset.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = unique_powerset.cpp; sourceTree = "<group>"; };
-		8DFD567D2C944A34001E54E6 /* count_number_of_unique_subsequences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = count_number_of_unique_subsequences.cpp; sourceTree = "<group>"; };
+		8DE5BC502C92C415005EAA4D /* 4_unique_powerset.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4_unique_powerset.cpp; sourceTree = "<group>"; };
+		8DE72DDC2CB309BC009D5EDB /* 17_rat_in_a_maze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17_rat_in_a_maze.cpp; sourceTree = "<group>"; };
+		8DF643AF2CB54E1600C67DB1 /* 20_sudoku_solver.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 20_sudoku_solver.cpp; sourceTree = "<group>"; };
+		8DFD567D2C944A34001E54E6 /* 5_count_number_of_unique_subsequences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5_count_number_of_unique_subsequences.cpp; sourceTree = "<group>"; };
+		8DFDEA072CA975D000EFD026 /* permutations_LC46_not_in_sheet_but_in_playlist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = permutations_LC46_not_in_sheet_but_in_playlist.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,14 +133,29 @@
 				8D1211842C8B49E30041EF37 /* sort_array_using_recursion.cpp */,
 				8DD5EABE2C8C2FCE009AD9A7 /* sort_a_stack_using_recursion.cpp */,
 				8DDC11E52C8F482A009D7634 /* reverse_stack_using_recursion.cpp */,
-				8D6852F52C8DB555009AAC59 /* generate_all_binary_strings_without_consecutive_ones.cpp */,
-				8D6852F72C8DB8FD009AAC59 /* generate_parentheses.cpp */,
-				8D6852F92C8DDFE9009AAC59 /* powerset_recursion.cpp */,
-				8DE5BC502C92C415005EAA4D /* unique_powerset.cpp */,
-				8DFD567D2C944A34001E54E6 /* count_number_of_unique_subsequences.cpp */,
-				8D258BAE2C958D270072299D /* count_number_of_subsequence_with_given_sum.cpp */,
-				8D3A2A1D2C96A75500DB3229 /* Combination_Sum.cpp */,
-				8D4662752C97E14200AF46A6 /* combination_sum_2.cpp */,
+				8D6852F52C8DB555009AAC59 /* 1_generate_all_binary_strings_without_consecutive_ones.cpp */,
+				8D6852F72C8DB8FD009AAC59 /* 2_generate_parentheses.cpp */,
+				8D6852F92C8DDFE9009AAC59 /* 3_powerset_recursion.cpp */,
+				8DE5BC502C92C415005EAA4D /* 4_unique_powerset.cpp */,
+				8DFD567D2C944A34001E54E6 /* 5_count_number_of_unique_subsequences.cpp */,
+				8D258BAE2C958D270072299D /* 6_count_number_of_subsequence_with_given_sum.cpp */,
+				8D0B103A2CA6185E00A4D740 /* 7_check_if_subsequence_exist.cpp */,
+				8D3A2A1D2C96A75500DB3229 /* 8_Combination_Sum.cpp */,
+				8D4662752C97E14200AF46A6 /* 9_combination_sum_2.cpp */,
+				8DCD6EEB2CA721F700FE2FE0 /* 10_subset_sum_1.cpp */,
+				8D288D212CA803240018FEAC /* 11_subset_sum_2.cpp */,
+				8D288D232CA8161E0018FEAC /* 12_combination_sum_3.cpp */,
+				8D288D252CA841E00018FEAC /* 13_letter_combination_of_a_phone_number.cpp */,
+				8DFDEA072CA975D000EFD026 /* permutations_LC46_not_in_sheet_but_in_playlist.cpp */,
+				8DB08B552CB10A0000D05293 /* 14_palindrome_patitioning.cpp */,
+				8D1E0C922CB2726500C2C36E /* 15_word_search.cpp */,
+				8D17E5922CABD8EB0068AABA /* 16_n_queen.cpp */,
+				8DE72DDC2CB309BC009D5EDB /* 17_rat_in_a_maze.cpp */,
+				8DA4C5842CB37CD500088F04 /* 18_word_break.cpp */,
+				8D84CC1C2CB8112C00178FDF /* 19_m_coloring_problem.cpp */,
+				8DF643AF2CB54E1600C67DB1 /* 20_sudoku_solver.cpp */,
+				8D52DB352CB5AEFC00EC9BD5 /* 21_wrong_question_leetcode_expression_add_operator.cpp */,
+				8D716D312CB8F8B8000C572D /* 22_kth_permutation(permutation_sequence).cpp */,
 			);
 			path = Recursion;
 			sourceTree = "<group>";
@@ -181,19 +226,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D288D222CA803240018FEAC /* 11_subset_sum_2.cpp in Sources */,
+				8DCD6EEC2CA721F700FE2FE0 /* 10_subset_sum_1.cpp in Sources */,
 				8D1211852C8B49E30041EF37 /* sort_array_using_recursion.cpp in Sources */,
-				8D6852F62C8DB555009AAC59 /* generate_all_binary_strings_without_consecutive_ones.cpp in Sources */,
+				8D84CC1D2CB8112C00178FDF /* 19_m_coloring_problem.cpp in Sources */,
+				8DB08B562CB10A0000D05293 /* 14_palindrome_patitioning.cpp in Sources */,
+				8D6852F62C8DB555009AAC59 /* 1_generate_all_binary_strings_without_consecutive_ones.cpp in Sources */,
 				8DD5EABF2C8C2FCE009AD9A7 /* sort_a_stack_using_recursion.cpp in Sources */,
 				8D77C9152C90754400B3DD7B /* jump_game.cpp in Sources */,
 				8DDC11E62C8F482A009D7634 /* reverse_stack_using_recursion.cpp in Sources */,
-				8D258BAF2C958D270072299D /* count_number_of_subsequence_with_given_sum.cpp in Sources */,
-				8D4662762C97E14200AF46A6 /* combination_sum_2.cpp in Sources */,
-				8D6852F82C8DB8FD009AAC59 /* generate_parentheses.cpp in Sources */,
-				8DFD567E2C944A34001E54E6 /* count_number_of_unique_subsequences.cpp in Sources */,
-				8DE5BC512C92C415005EAA4D /* unique_powerset.cpp in Sources */,
+				8D258BAF2C958D270072299D /* 6_count_number_of_subsequence_with_given_sum.cpp in Sources */,
+				8D4662762C97E14200AF46A6 /* 9_combination_sum_2.cpp in Sources */,
+				8DA4C5852CB37CD500088F04 /* 18_word_break.cpp in Sources */,
+				8D0B103B2CA6185E00A4D740 /* 7_check_if_subsequence_exist.cpp in Sources */,
+				8D52DB362CB5AEFC00EC9BD5 /* 21_wrong_question_leetcode_expression_add_operator.cpp in Sources */,
+				8D6852F82C8DB8FD009AAC59 /* 2_generate_parentheses.cpp in Sources */,
+				8DFD567E2C944A34001E54E6 /* 5_count_number_of_unique_subsequences.cpp in Sources */,
+				8D1E0C932CB2726500C2C36E /* 15_word_search.cpp in Sources */,
+				8DE72DDD2CB309BC009D5EDB /* 17_rat_in_a_maze.cpp in Sources */,
+				8D288D262CA841E00018FEAC /* 13_letter_combination_of_a_phone_number.cpp in Sources */,
+				8D716D322CB8F8B8000C572D /* 22_kth_permutation(permutation_sequence).cpp in Sources */,
+				8D288D242CA8161E0018FEAC /* 12_combination_sum_3.cpp in Sources */,
+				8DE5BC512C92C415005EAA4D /* 4_unique_powerset.cpp in Sources */,
+				8DFDEA082CA975D000EFD026 /* permutations_LC46_not_in_sheet_but_in_playlist.cpp in Sources */,
 				8D3B3B3F2C91B6DC00E65B78 /* jump_game_2.cpp in Sources */,
-				8D6852FA2C8DDFE9009AAC59 /* powerset_recursion.cpp in Sources */,
-				8D3A2A1E2C96A75500DB3229 /* Combination_Sum.cpp in Sources */,
+				8DF643B02CB54E1600C67DB1 /* 20_sudoku_solver.cpp in Sources */,
+				8D6852FA2C8DDFE9009AAC59 /* 3_powerset_recursion.cpp in Sources */,
+				8D17E5932CABD8EB0068AABA /* 16_n_queen.cpp in Sources */,
+				8D3A2A1E2C96A75500DB3229 /* 8_Combination_Sum.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
